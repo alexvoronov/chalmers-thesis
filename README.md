@@ -22,11 +22,11 @@ Compiling
 
 Compilation is straightforward:
 
-  pdflatex main
-  biber main
-  pdflatex main
-  pdflatex main
-  pdflatex main
+    pdflatex main
+    biber main
+    pdflatex main
+    pdflatex main
+    pdflatex main
 
 Make sure that you have the latest versions of [Biber](http://biblatex-biber.sourceforge.net/) and LaTeX packages.
 
