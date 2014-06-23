@@ -1,9 +1,9 @@
 Thesis template for PhD/Lic thesis at Chalmers
 ----------------------------------------------
 
-This is a LaTeX template for a PhD/Lic thesis follows Chalmers [recommendations on thesis layout](https://www.chalmers.se/insidan/EN/education-research/doctoral-student/phd-degree-examination/layout-thesis).
+This is a LaTeX template for a PhD/Lic thesis follows Chalmers [recommendations on thesis layout](https://www.chalmers.se/insidan/EN/education-research/doctoral-student/handbook-for-doctoral8636/doctoral-thesis-defence/layout-thesis).
 
-A PhD thesis in Sweden is either a _monograph_, which is a coherent scientific work, or a _compilation_, which is a collection of papers tied together by a short summary (20-50 pages) called _kappa_. Advantage of a monograph is its coherence. Compilation, on the other hand, usually requires less work. This template shows how to typeset a compilation thesis.
+A PhD thesis in Sweden is either a _monograph_, which is a coherent scientific work, or a _compilation_, which is a collection of papers tied together by a short summary (20-50 pages) called _kappa_. This template shows how to typeset a compilation thesis.
 
 
 Files and folders
@@ -31,9 +31,6 @@ Compilation is straightforward:
 Make sure that you have the latest versions of [Biber](http://biblatex-biber.sourceforge.net/) and LaTeX packages.
 
 
-
 Disclaimer
 ----------
-THIS SOFTWARE IS PROVIDED ``AS IS'' AND WITHOUT ANY EXPRESS OR
-IMPLIED WARRANTIES, INCLUDING, WITHOUT LIMITATION, THE IMPLIED
-WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+This software is provided "as is" and without any express or implied warranties, including, without limitation, the implied warranties of merchantability and fitness for a particular purpose.
